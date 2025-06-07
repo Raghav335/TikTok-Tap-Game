@@ -47,7 +47,9 @@ tiktok-tap-game/
 
 git clone https://github.com/Raghav335/tikTok-Tap-game.git
 
-2. Open index.html in your browser.
+2. Open index.html in your
+
+ proved  by screenshot.https://github.com/Raghav335/TikTok-Tap-Game/blob/main/tik%20tok%20game.jpg
 
 📬 Contact
 
